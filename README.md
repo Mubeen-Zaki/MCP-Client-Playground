@@ -1,6 +1,6 @@
 ## About
 
-This project explores MCP client implementations using different libraries and SDKs. It includes:
+This repo explores MCP client implementations using different libraries and SDKs. It includes:
 
 - FastMCP client for basic connectivity and tool discovery.
 - LangChain MCP adapter client for interactive tool calling with an LLM.
