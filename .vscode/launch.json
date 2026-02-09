@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Debug MCP Client",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "src.client2",
+            "args": ["cmd"],
+            "cwd": "${workspaceFolder}"
+        }
+
+    ]
+}
